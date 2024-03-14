@@ -1,4 +1,4 @@
-# Buildweek-1-G6
+# Epicode - Benchmark Platform Clone
 
 Piattaforma del benchmark di Epicode, presente di quiz a risposta multipla, risultato finale e pagina di feedback.
 
@@ -7,7 +7,7 @@ Piattaforma del benchmark di Epicode, presente di quiz a risposta multipla, risu
 ### 1. Clonazione repository
 
 ```bash
-git clone https://github.com/TunaSandwichhh/davide-faggionato-repo.git
+git clone https://github.com/TunaSandwichhh/Buildweek-1-G6.git
 ```
 
 ## Descrizione HTML
