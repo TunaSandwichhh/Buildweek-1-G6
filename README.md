@@ -7,7 +7,7 @@ Piattaforma del benchmark di Epicode, presente di quiz a risposta multipla, risu
 ### 1. Clonazione repository
 
 ```bash
-git clone https://github.com/TunaSandwichhh/Buildweek-1-G6.git
+git clone https://github.com/TunaSandwichhh/Epicode-Benchmark-Platform-Clone.git
 ```
 
 ## Descrizione HTML
